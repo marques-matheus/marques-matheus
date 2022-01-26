@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marques-matheus
 - 👀 I’m interested in evolve my skills, learn new things and be part of something big
-- 🌱 I’m currently learning a little bit of (Almost) everything (Like Java, Mobile, Database e etc..)
+- 🌱 I’m currently learning a little bit of (Almost) everything (Like Java, Mobile, Web, Database e etc..)
 
 
 <!---
