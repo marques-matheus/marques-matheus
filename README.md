@@ -1,7 +1,7 @@
 
 
-##   -Hi! I'm Matheus, Welcome to my Profile!
-<div style="display: flex"><br>
+##   -Hi! I'm Matheus
+<div><br>
   
 - 💻  Front-End Adventurer 
 - 🖥️  Graduated in Systems Analysis and Development
