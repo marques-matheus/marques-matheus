@@ -14,8 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="40" width="52" alt="gatsby logo"  />
 </div>
 
-###
-<img href="https://github.com/marques-matheus/marques-matheus/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <div align="center">
