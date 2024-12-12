@@ -3,7 +3,7 @@
 # Hi, I'm Matheus Marques! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in [your main interest or field]. I love working on open-source projects and contributing to the community.
+I'm a passionate developer with a keen interest in Front-end development. I love working on open-source projects and contributing to the community.
 
 ## Skills
 - **Languages:** JavaScript, TypeScript
