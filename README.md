@@ -32,51 +32,27 @@ My current goal is to work as a:
 
 <br/>
 
-<div align="center">
-
- 
+<p align="center">
   <a href="https://www.credly.com/badges/659e8862-732a-426e-abfd-c9970b10b86e/public_url" target="_blank">
-    <img 
-      src="./assets/badges/aws-certified-cloudops-engineer-associate.png" 
-      width="120" 
-      alt="AWS Certified CloudOps Engineer Associate" 
-    />
+    <img src="assets/badges/aws-certified-cloudops-engineer-associate.png" width="120" alt="AWS Certified CloudOps Engineer Associate" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/9fd47da8-69dc-4e2b-a982-38ca983280cd/public_url" target="_blank">
-    <img 
-      src="./assets/badges/aws-certified-solutions-architect-associate.png" 
-      width="120" 
-      alt="AWS Certified Solutions Architect Associate" 
-    />
+    <img src="assets/badges/aws-certified-solutions-architect-associate.png" width="120" alt="AWS Certified Solutions Architect Associate" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-   <a href="https://www.credly.com/badges/1b3275d9-d489-48bf-919f-784c62247b22/public_url" target="_blank">
-    <img 
-      src="./assets/badges/aws-certified-cloud-practitioner.png" 
-      width="120" 
-      alt="AWS Certified Cloud Practitioner" 
-    />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/1b3275d9-d489-48bf-919f-784c62247b22/public_url" target="_blank">
+    <img src="assets/badges/aws-certified-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
   </a>
-
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/4f97a633-ad3f-455c-9e93-de7d20f282da/public_url" target="_blank">
-    <img 
-      src="./assets/badges/aws-certified-ai-practitioner.png" 
-      width="120" 
-      alt="AWS Certified AI Practitioner" 
-    />
+    <img src="assets/badges/aws-certified-ai-practitioner.png" width="120" alt="AWS Certified AI Practitioner" />
   </a>
-
-</div>
+</p>
 
 <br/>
+
+
 
 ---
 
